@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/burtthecoder-mcp-dnstwist-badge.png)](https://mseep.ai/app/burtthecoder-mcp-dnstwist)
+
 # DNStwist MCP Server
 [![smithery badge](https://smithery.ai/badge/@burtthecoder/mcp-dnstwist)](https://smithery.ai/server/@burtthecoder/mcp-dnstwist)
 
